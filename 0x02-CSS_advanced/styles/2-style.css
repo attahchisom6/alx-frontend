@@ -3,7 +3,7 @@ html {
 }
 
 body, a {
-  foreground: 161616;
+  color: 161616;
 }
 
 .visually-hidden {
@@ -11,5 +11,5 @@ body, a {
 }
 
 .card-category, .section-tagline {
-  foreground: #D73953;
+  color: #D73953;
 }
