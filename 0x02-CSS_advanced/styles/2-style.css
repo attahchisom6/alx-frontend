@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body, a {
+  foreground: 161616;
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category, .section-tagline {
+  foreground: #D73953;
+}
