@@ -29,7 +29,7 @@ html {
   --section-title-color: var(--color-black);
 }
 
-body, a {
+body {
   color: var(--text-color);
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);
@@ -38,7 +38,8 @@ body, a {
 }
 
 a {
-  text-decoration: None;
+  color: var(--text-color);
+  text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
