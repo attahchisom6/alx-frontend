@@ -443,15 +443,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-title {
-  font-family: var(--font-family-title);
-  font-size: var(--font-weight-xx-large);
-  font-weight: var(--font-weight-bold);
-  color: var(--section-title-color);
-  margin: var(--section-title-margin);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size-xx-large);
+    font-weight: var(--font-weight-bold);
+    margin: var(--section-title-margin);
+    color: var(--section-title-color);
 }
 
 .section-tagline {
   color: var(--color-primary);
+  font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
 }
