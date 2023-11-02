@@ -535,6 +535,12 @@ ul.row {
   color: var(--text-color);
 }
 
+.row::after {
+  content: "";
+  display: table;
+  clear: none;
+}
+
 /* All ul in the class footer */
 .footer ul {
   text-align: right;
