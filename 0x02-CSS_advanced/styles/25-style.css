@@ -583,6 +583,18 @@ ul.row {
   --button-color: var(--color-white);
 }
 
+.footer-address {
+  color: var(--text-color);
+}
+
+.social-link {
+  display: block;
+}
+
+.social-link > svg {
+  fill: var(--text-color);
+}
+
 .card-services .card-title {
   margin: 0;
 }
