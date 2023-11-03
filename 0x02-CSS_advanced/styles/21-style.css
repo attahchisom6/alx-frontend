@@ -552,5 +552,5 @@ ul.row {
 
 [class^="col-"] {
   float: left;
-  padding: 0;
+  padding: 0.5rem;
 }
