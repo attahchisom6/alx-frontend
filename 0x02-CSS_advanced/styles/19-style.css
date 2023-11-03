@@ -534,11 +534,12 @@ ul.row {
 }
 
 .footer-copyright {
-  margin: none;
+  margin: 0;
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
 
-footer ul {
+/*all ul tag in the footer*/
+.footer ul {
   text-align: right;
 }
