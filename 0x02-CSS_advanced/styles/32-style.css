@@ -770,5 +770,5 @@ ul.row {
 }
 
 .card-work .card-inner {
-  transition: var(--transitionduration) var(--transition-cubic-bezier);
+  transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
